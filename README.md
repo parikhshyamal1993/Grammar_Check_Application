@@ -4,6 +4,6 @@
 
 Things included in this reposetory 
 
-- [x] Training Script for bert on colab
-- [x]  Inference Script with batch procesing
-- [x] Front end in streamlit
+- [ ] Training Script for bert on colab
+- [ ]  Inference Script with batch procesing
+- [ ] Front end in streamlit
