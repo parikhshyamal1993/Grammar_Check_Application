@@ -12,3 +12,16 @@ Things included in this reposetory
 ## Model folder 
 
 https://drive.google.com/drive/folders/1Ks03aksqAuQOWOvNVCjFf1xVCwNO6sdo?usp=drive_link
+
+
+## Run Application 
+
+```
+ streamlit run grammer_check_app.py
+
+```
+
+## Application Environemnt 
+
+- This application was teseted on windows 11
+- Model is trained on COLAB  
